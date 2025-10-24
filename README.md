@@ -7,7 +7,12 @@ This Tableau project explores various chart types using a Sample Super Store dat
 ###  Project Overview
 This project demonstrates the use of **Tableau** for interactive data visualization and dashboard creation. It explores sales, orders, customer demographics, and performance metrics using a sample superstore dataset.
 
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8f86cc0d-e16e-4e63-9b18-5c186bf85d39" />
+
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/4f335ebc-f2b4-4b28-8346-6c96d71211d2" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8c85211b-0e02-4e8f-9e9b-3a26c65ffe00" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5cb3ef19-570f-4878-a2da-9d4249a3d683" />
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/ff56619d-a6ac-4538-a853-4b78330d7ab9" />
 
 
 ###  Objectives
