@@ -9,8 +9,6 @@ This project demonstrates the use of **Tableau** for interactive data visualizat
 
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8f86cc0d-e16e-4e63-9b18-5c186bf85d39" />
 
-
-
 ###  Objectives
 - Connect to structured sales data
 - Create dynamic and interactive visualizations
